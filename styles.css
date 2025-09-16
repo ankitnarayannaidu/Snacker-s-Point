@@ -1,0 +1,16 @@
+ styles.css 
+
+body {
+
+    font-family Arial, sans-serif;
+
+}
+
+
+.card img {
+
+    height 200px;
+
+    object-fit cover;
+
+}
